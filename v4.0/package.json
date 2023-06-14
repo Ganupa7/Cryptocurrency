@@ -1,0 +1,20 @@
+{
+  "name": "v3.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/hardhat-upgrades": "^1.27.0",
+    "hardhat": "^2.14.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.9.1",
+    "ethers": "^5.5.2"
+  }
+}
