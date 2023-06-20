@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\vinee\\OneDrive\\Desktop\\New folder\\Cryptocurrency\\v6.0\\contracts\\BasicDutchAuction.sol": {
+      "lastModificationDate": 1687230655031,
+      "contentHash": "b0b51c5735e4252bef7fb371ef243654",
+      "sourceName": "contracts/BasicDutchAuction.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "BasicDutchAuction"
+      ]
+    }
+  }
+}
